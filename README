@@ -1,6 +1,11 @@
 ################
 CS:APP Shell Lab
 ################
+STEP1(necessary):
+cd CSAPP_ShellLab
+make
+STEP2(for test):
+make test15
 
 Files:
 
